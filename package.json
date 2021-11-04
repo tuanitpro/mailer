@@ -1,6 +1,6 @@
 {
   "name": "@nestjs-modules/mailer",
-  "version": "1.6.0",
+  "version": "2.0.0",
   "private": false,
   "description": "NestJS - a mailer module (@mailer)",
   "keywords": [
@@ -75,18 +75,18 @@
     "@typescript-eslint/eslint-plugin": "4.31.1",
     "@typescript-eslint/parser": "4.31.1",
     "husky": "7.0.4",
-    "lint-staged": "11.2.4",
     "jest": "27.0.6",
+    "lint-staged": "11.2.4",
     "nodemailer": "6.6.5",
     "nodemailer-mock": "1.5.11",
     "prettier": "2.3.2",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
+    "rxjs": "7.3.1",
     "standard-version": "9.3.2",
     "ts-jest": "27.0.5",
     "ts-node": "10.2.1",
-    "typescript": "4.3.5",
-    "rxjs": "7.3.1"
+    "typescript": "4.3.5"
   },
   "peerDependencies": {
     "@nestjs/common": "^7.0.9 || ^8.0.0",
